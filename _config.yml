@@ -6,14 +6,14 @@ title: Qiyao Wang
 
 # Owner/author information
 owner:
-  name: Qiyao Wang
-  avatar: wqy.jpg
+  name: DUTIR-IP
+  # avatar: wqy.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: wangqiyao@mail.dlut.edu.cn
+  # email: wangqiyao@mail.dlut.edu.cn
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
-  github: Mathsion2
+  github: DUTIR-IP
   #linkedin: hanlincai
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   #bilibili: 594030035
@@ -36,18 +36,17 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: About Us
     url: /
+  - title: IPEval Benchmark
+    url: /ipeval/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Blogs
-    url: /blogs/
   - title: News Record
     url: /news_record/
-  - title: IPEval Benchmark
-    url: /ipeval/
+  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
