@@ -36,10 +36,10 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Us
-    url: /
+# - title: About Us
+#    url: /
   - title: IPEval Benchmark
-    url: /ipeval/
+    url: /
 #  - title: Publications
 #    url: /publications/
 #  - title: Awards
