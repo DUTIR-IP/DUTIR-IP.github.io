@@ -40,12 +40,12 @@ links:
     url: /
   - title: IPEval Benchmark
     url: /ipeval/
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: News Record
-    url: /news_record/
+#  - title: Publications
+#    url: /publications/
+#  - title: Awards
+#    url: /awards/
+#  - title: News Record
+#    url: /news_record/
   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
