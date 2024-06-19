@@ -4,7 +4,7 @@ layout: page
 
 ## IPEval Benchmark
 <a href="javascript:window.location='https://huggingface.co/datasets/Mathsion/IPEval';">![Data](https://img.shields.io/badge/IPEval-Data-{brightgreen})</a>
-<a href="javascript:window.location='';">![Paper](https://img.shields.io/badge/IPEval-Paper-{red})</a>
+<a href="javascript:window.location='https://arxiv.org/abs/2406.12386';">![Paper](https://img.shields.io/badge/IPEval-Paper-{red})</a>
 <a href="javascript:window.location='https://github.com/Mathsion2/IPEval';">![Github](https://img.shields.io/badge/IPEval-Github-{red})</a>
 
 
