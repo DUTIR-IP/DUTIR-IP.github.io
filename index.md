@@ -19,8 +19,14 @@ Our data can be directly downloaded on <a href="https://huggingface.co/datasets/
 ---
 ### Citation
 ```
-We will upload the paper to arXiv or make supplementary actions after it is accepted.
-```
+@misc{wang2024ipeval,
+      title={IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models}, 
+      author={Qiyao Wang and Jianguo Huang and Shule Lu and Yuan Lin and Kan Xu and Liang Yang and Hongfei Lin},
+      year={2024},
+      eprint={2406.12386},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}```
 
 ---
 ### Contact Us
