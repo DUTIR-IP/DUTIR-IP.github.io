@@ -10,7 +10,7 @@ layout: page
 
 ---
 ### About IPEval
-IPEval is a pioneering bilingual Intellectual Property (IP) agency consultation evaluation benchmark, meticulously crafted to assess the competencies of Large Language Models (LLMs) in the intricate domain of intellectual property. This benchmark is the first of its kind, encompassing a diverse spectrum of 2,657 multiple-choice questions that are intricately divided across four major capability dimensions: creation, application, protection, and management. More details can be found in our paper.
+IPEval is a pioneering bilingual Intellectual Property (IP) agency consultation evaluation benchmark, meticulously crafted to assess the competencies of Large Language Models (LLMs) in the intricate domain of intellectual property. This benchmark is the first of its kind, encompassing a diverse spectrum of 2,657 multiple-choice questions that are intricately divided across four major capability dimensions: creation, application, protection, and management. More details can be found in our [paper](https://arxiv.org/abs/2406.12386).
 
 ---
 ### Data
